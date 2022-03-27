@@ -46,3 +46,4 @@
 [sql]: https://www.w3schools.com/sql/
 [mysql]: https://www.mysql.com/
 [status]: https://github.com/leonardoRampazzo
+[ReactNative]: https://reactnative.dev
