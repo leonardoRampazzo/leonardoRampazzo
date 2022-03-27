@@ -1,8 +1,8 @@
 ### Hi there, I'm Leonardo Rampazzo 👋
 
 ## I'm a Coordinator of Systems at [Stationsoft](http://stationsoft.com.br/)
-- 🔭 I’m currently working on new projects and plataforms
-- 🌱 I’m currently learning Salesforce, Xamarin and how to live
+- 🔭 I’m currently working on Salesforce, Progress(Open Edge), Xamarin, React-Native
+- 🌱 I’m currently learning Salesforce and React-Native
 - 👯 I’m looking to collaborate on help other people to learn
 
 ### Connect with me:
@@ -24,6 +24,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="React-Native" width="26px" src="https://reactnative.dev/img/favicon.ico"/>][ReactNative]
 
 <br />
 <br />
