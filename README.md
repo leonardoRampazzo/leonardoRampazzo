@@ -1,7 +1,7 @@
 ### Hi there, I'm Leonardo Rampazzo 👋
 
 ## I'm a Coordinator of Systems at [Stationsoft](http://stationsoft.com.br/)
-- 🔭 I’m currently working on Salesforce, Progress(Open Edge), Xamarin, React-Native
+- 🔭 I’m currently working on Salesforce, React-Native, Progress(Open Edge)
 - 🌱 I’m currently learning Salesforce and React-Native
 - 👯 I’m looking to collaborate on help other people to learn
 
