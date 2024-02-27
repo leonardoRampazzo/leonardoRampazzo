@@ -1,8 +1,7 @@
 ### Hi there, I'm Leonardo Rampazzo 👋
 
-## I'm a Coordinator of Systems at [Stationsoft](http://stationsoft.com.br/)
-- 🔭 I’m currently working on Salesforce, React-Native, Progress(Open Edge)
-- 🌱 I’m currently learning Salesforce and React-Native
+## I'm a Tech Lead at [Stationsoft](http://stationsoft.com.br/)
+- 🔭 I’m currently working on Salesforce, React-Native, Progress(Openedge)
 - 👯 I’m looking to collaborate on help other people to learn
 
 ### Connect with me:
@@ -28,11 +27,6 @@
 
 <br />
 <br />
-
-<!--
-<summary>:zap: GitHub Stats</summary>
-[![leonardos's github stats](https://github-readme-stats.vercel.app/api?username=leonardoRampazzo&count_private=true&show_icons=true&theme=graywhite&langs_count=true)][status]
--->
 
 [twitter]: https://twitter.com/leoRampazzo
 [instagram]: https://instagram.com/leonardorampazzo
