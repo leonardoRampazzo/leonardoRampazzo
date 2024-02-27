@@ -1,43 +1,30 @@
 ### Hi there, I'm Leonardo Rampazzo 👋
 
-## I'm a Tech Lead at [Stationsoft](http://stationsoft.com.br/)
-- 🔭 I’m currently working on Salesforce, React-Native, Progress(Openedge)
-- 👯 I’m looking to collaborate on help other people to learn
+I'm a passionate Tech Lead at [Stationsoft](http://stationsoft.com.br/) with a focus on Salesforce, React-Native, and Progress(Openedge). I love exploring new technologies and currently, I'm working on enhancing digital experiences through innovative solutions.
+
+- 🔭 I’m currently working on Salesforce, React-Native, and Progress(Openedge).
+- 👯 I’m looking to collaborate on projects that help people learn and grow in the tech industry.
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+[![Twitter](https://img.shields.io/twitter/follow/leoRampazzo?style=social)](https://twitter.com/leoRampazzo)
+[![LinkedIn](https://img.shields.io/badge/linkedin--blue?style=social&logo=linkedin)](https://linkedin.com/in/leonardo-rampazzo-b64a9690)
+[![Instagram](https://img.shields.io/badge/instagram--red?style=social&logo=instagram)](https://instagram.com/leonardorampazzo)
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][w3schools]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][w3schools]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][w3schools]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="React-Native" width="26px" src="https://reactnative.dev/img/favicon.ico"/>][ReactNative]
 
-<br />
-<br />
+Here are some of the languages and tools I work with:
 
-[twitter]: https://twitter.com/leoRampazzo
-[instagram]: https://instagram.com/leonardorampazzo
-[linkedin]: https://linkedin.com/in/leonardo-rampazzo-b64a9690
-[vscode]: https://code.visualstudio.com/
-[w3schools]: https://www.w3schools.com/
-[git]: https://git-scm.com/ 
-[github]: https://github.com/
-[node]: https://nodejs.org/en/
-[mongo]: https://www.mongodb.com/
-[sql]: https://www.w3schools.com/sql/
-[mysql]: https://www.mysql.com/
-[status]: https://github.com/leonardoRampazzo
-[ReactNative]: https://reactnative.dev
+- ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+Feel free to reach out if you're interested in collaborating on a project or just want to connect!
